@@ -5,7 +5,7 @@
 
 ### 💜 What I Love To Do
 - Data cleaning, exploration, and visualization
-- Building predictive models (e.g., logistic regression, clustering)
+- Building predictive models (e.g., regression, clustering, time series)
 - Creating clear, accessible dashboards and reports
 
 ### 💻 Data Tools I Use Often:
